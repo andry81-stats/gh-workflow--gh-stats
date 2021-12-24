@@ -1,7 +1,114 @@
 {
+  "timestamp" : "2021-12-24T07-04-35Z",
   "count_outdated" : 0,
   "uniques_outdated" : 0,
-  "count" : 0,
-  "uniques" : 0,
-  "clones" : []
+  "count" : 982,
+  "uniques" : 29,
+  "clones" : [
+    {
+      "timestamp": "2021-12-10T00:00:00Z",
+      "count": 44,
+      "count_minmax": [ 44, 44 ],
+      "uniques": 1,
+      "uniques_minmax": [ 1, 1 ]
+    },
+    {
+      "timestamp": "2021-12-11T00:00:00Z",
+      "count": 66,
+      "count_minmax": [ 66, 66 ],
+      "uniques": 1,
+      "uniques_minmax": [ 1, 1 ]
+    },
+    {
+      "timestamp": "2021-12-12T00:00:00Z",
+      "count": 66,
+      "count_minmax": [ 66, 66 ],
+      "uniques": 1,
+      "uniques_minmax": [ 1, 1 ]
+    },
+    {
+      "timestamp": "2021-12-13T00:00:00Z",
+      "count": 66,
+      "count_minmax": [ 66, 66 ],
+      "uniques": 1,
+      "uniques_minmax": [ 1, 1 ]
+    },
+    {
+      "timestamp": "2021-12-14T00:00:00Z",
+      "count": 70,
+      "count_minmax": [ 70, 70 ],
+      "uniques": 5,
+      "uniques_minmax": [ 5, 5 ]
+    },
+    {
+      "timestamp": "2021-12-15T00:00:00Z",
+      "count": 69,
+      "count_minmax": [ 69, 69 ],
+      "uniques": 3,
+      "uniques_minmax": [ 3, 3 ]
+    },
+    {
+      "timestamp": "2021-12-16T00:00:00Z",
+      "count": 70,
+      "count_minmax": [ 70, 70 ],
+      "uniques": 5,
+      "uniques_minmax": [ 5, 5 ]
+    },
+    {
+      "timestamp": "2021-12-17T00:00:00Z",
+      "count": 72,
+      "count_minmax": [ 72, 72 ],
+      "uniques": 1,
+      "uniques_minmax": [ 1, 1 ]
+    },
+    {
+      "timestamp": "2021-12-18T00:00:00Z",
+      "count": 73,
+      "count_minmax": [ 73, 73 ],
+      "uniques": 3,
+      "uniques_minmax": [ 3, 3 ]
+    },
+    {
+      "timestamp": "2021-12-19T00:00:00Z",
+      "count": 72,
+      "count_minmax": [ 72, 72 ],
+      "uniques": 1,
+      "uniques_minmax": [ 1, 1 ]
+    },
+    {
+      "timestamp": "2021-12-20T00:00:00Z",
+      "count": 72,
+      "count_minmax": [ 72, 72 ],
+      "uniques": 1,
+      "uniques_minmax": [ 1, 1 ]
+    },
+    {
+      "timestamp": "2021-12-21T00:00:00Z",
+      "count": 73,
+      "count_minmax": [ 73, 73 ],
+      "uniques": 2,
+      "uniques_minmax": [ 2, 2 ]
+    },
+    {
+      "timestamp": "2021-12-22T00:00:00Z",
+      "count": 72,
+      "count_minmax": [ 72, 72 ],
+      "uniques": 1,
+      "uniques_minmax": [ 1, 1 ]
+    },
+    {
+      "timestamp": "2021-12-23T00:00:00Z",
+      "count": 72,
+      "count_minmax": [ 72, 72 ],
+      "uniques": 1,
+      "uniques_minmax": [ 1, 1 ]
+    },
+    {
+      "timestamp": "2021-12-24T00:00:00Z",
+      "count": 25,
+      "count_minmax": [ 25, 25 ],
+      "uniques": 2,
+      "uniques_minmax": [ 2, 2 ]
+    }
+  ]
 }
