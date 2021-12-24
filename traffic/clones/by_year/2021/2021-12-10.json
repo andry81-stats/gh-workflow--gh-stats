@@ -1,7 +1,7 @@
 {
   "timestamp" : "2021-12-10T00:00:00Z",
-  "count" : 25,
-  "count_minmax" : [ 25, 44 ],
+  "count" : 3,
+  "count_minmax" : [ 3, 44 ],
   "uniques" : 1,
   "uniques_minmax" : [ 1, 1 ]
 }
