@@ -1,6 +1,6 @@
 {
   "timestamp" : "2022-01-23T00:00:00Z",
-  "count" : 69,
+  "count" : 37,
   "count_minmax" : [ 3, 69 ],
   "count_prev_day_inc" : 68,
   "count_prev_day_dec" : 93,
