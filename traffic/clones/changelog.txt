@@ -1,3 +1,10 @@
+2022-05-18T13:48:50Z:
+* notice: last 14d: unq all: 26 5116
+* notice: prev accum: outdated-unq outdated-all / unq all: 463 18659 / 566 23670
+* notice: next accum: outdated-unq outdated-all / unq all: 463 18659 / 573 23775
+* notice: prev exec diff / last date diff / accum: unq all: +7 +229 -0 -124 / +7 +229 -0 -0 / 7 229
+* notice: changed dates: [2022-05-04 2022-05-18]
+
 2022-05-18T01:52:30Z:
 * notice: last 14d: all unq: 5011 26
 * notice: prev accum: outdated-all outdated-unq / all unq: 18430 455 / 23461 566
