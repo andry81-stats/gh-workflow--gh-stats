@@ -1,3 +1,10 @@
+2022-08-07T16:01:56Z:
+* notice: last 14d: unq all: 10 3330
+* notice: prev accum: outdated-unq outdated-all / unq all: 723 44569 / 752 49374
+* notice: next accum: outdated-unq outdated-all / unq all: 740 47378 / 770 50708
+* notice: prev exec diff / last date diff / accum: unq all: +19 +1556 -1 -290 / +6 +122 -0 -0 / 6 122
+* notice: removed / changed dates: [2022-07-16 2022-07-16 2022-07-16 2022-07-16 2022-07-16 2022-07-16 2022-07-16 2022-07-16] / [2022-07-24 2022-07-30 2022-07-31 2022-08-01 2022-08-02 2022-08-03 2022-08-04 2022-08-05 2022-08-06 2022-08-07]
+
 2022-07-30T02:20:52Z:
 * notice: last 14d: unq all: 5 4805
 * notice: prev accum: outdated-unq outdated-all / unq all: 721 44219 / 752 49045
