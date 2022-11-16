@@ -1,0 +1,9 @@
+{
+  "timestamp" : "2022-11-16T08:07:27Z",
+  "count" : 141,
+  "count_minmax" : [ 141, 141 ],
+  "count_decinc" : [ -0, +141 ],
+  "uniques" : 1,
+  "uniques_minmax" : [ 1, 1 ],
+  "uniques_decinc" : [ -0, +1 ]
+}
