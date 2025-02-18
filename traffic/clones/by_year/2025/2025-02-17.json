@@ -1,0 +1,9 @@
+{
+  "timestamp" : "2025-02-18T00:39:47Z",
+  "count" : 125,
+  "count_minmax" : [ 125, 125 ],
+  "count_decinc" : [ -0, +125 ],
+  "uniques" : 1,
+  "uniques_minmax" : [ 1, 1 ],
+  "uniques_decinc" : [ -0, +1 ]
+}
