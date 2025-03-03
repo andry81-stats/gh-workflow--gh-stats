@@ -1,8 +1,8 @@
 {
-  "timestamp" : "2025-02-19T00:40:05Z",
-  "count" : 127,
-  "count_minmax" : [ 125, 127 ],
-  "count_decinc" : [ -0, +127 ],
+  "timestamp" : "2025-03-03T00:43:13Z",
+  "count" : 107,
+  "count_minmax" : [ 107, 127 ],
+  "count_decinc" : [ -20, +127 ],
   "uniques" : 1,
   "uniques_minmax" : [ 1, 1 ],
   "uniques_decinc" : [ -0, +1 ]
