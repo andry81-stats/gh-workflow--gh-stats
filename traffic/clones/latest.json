@@ -1,67 +1,7 @@
 {
-  "count": 1335,
-  "uniques": 4,
+  "count": 480,
+  "uniques": 5,
   "clones": [
-    {
-      "timestamp": "2026-05-18T00:00:00Z",
-      "count": 94,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2026-05-19T00:00:00Z",
-      "count": 96,
-      "uniques": 2
-    },
-    {
-      "timestamp": "2026-05-20T00:00:00Z",
-      "count": 93,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2026-05-21T00:00:00Z",
-      "count": 96,
-      "uniques": 2
-    },
-    {
-      "timestamp": "2026-05-22T00:00:00Z",
-      "count": 94,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2026-05-23T00:00:00Z",
-      "count": 100,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2026-05-24T00:00:00Z",
-      "count": 99,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2026-05-25T00:00:00Z",
-      "count": 94,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2026-05-26T00:00:00Z",
-      "count": 93,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2026-05-27T00:00:00Z",
-      "count": 93,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2026-05-28T00:00:00Z",
-      "count": 92,
-      "uniques": 1
-    },
-    {
-      "timestamp": "2026-05-29T00:00:00Z",
-      "count": 93,
-      "uniques": 1
-    },
     {
       "timestamp": "2026-05-30T00:00:00Z",
       "count": 100,
@@ -70,6 +10,66 @@
     {
       "timestamp": "2026-05-31T00:00:00Z",
       "count": 98,
+      "uniques": 2
+    },
+    {
+      "timestamp": "2026-06-01T00:00:00Z",
+      "count": 91,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2026-06-02T00:00:00Z",
+      "count": 81,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2026-06-03T00:00:00Z",
+      "count": 8,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2026-06-04T00:00:00Z",
+      "count": 10,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2026-06-05T00:00:00Z",
+      "count": 11,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2026-06-06T00:00:00Z",
+      "count": 15,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2026-06-07T00:00:00Z",
+      "count": 13,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2026-06-08T00:00:00Z",
+      "count": 10,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2026-06-09T00:00:00Z",
+      "count": 13,
+      "uniques": 3
+    },
+    {
+      "timestamp": "2026-06-10T00:00:00Z",
+      "count": 10,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2026-06-11T00:00:00Z",
+      "count": 9,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2026-06-12T00:00:00Z",
+      "count": 11,
       "uniques": 2
     }
   ]
