@@ -1,0 +1,9 @@
+{
+  "timestamp" : "2026-11-25T07:49:06Z",
+  "count" : 86,
+  "count_minmax" : [ 86, 86 ],
+  "count_decinc" : [ -0, +86 ],
+  "uniques" : 2,
+  "uniques_minmax" : [ 2, 2 ],
+  "uniques_decinc" : [ -0, +2 ]
+}
